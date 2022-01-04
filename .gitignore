@@ -45,8 +45,7 @@ htmlcov/
 .coverage.*
 .cache
 nosetests.xml
-coverage.xml
-*.cover
+coverage.xmlssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWfYaC4eN4Afl07+7cXLauu4DNc/X/HH6gnpTA+y2jOMu1vC2bnktIkaMd/+tkFOTciahZpJmfL0PM0HLI8bjst137Ydm38YT7BKQRnG3jsN7Sy4tVOgwvBF1MbWtFHAwo3OArGauR9SiPfnLHkp8y+Cp+hcl8Xh3kzjPO7A/INKoBb1TuYsBiDRx+Kwpu6oPVI8scHT8ir1umbqJlTa+1nPyJ+0Ae8SNws3HQqLySFchsMi9hzVURAHp1C46aB8ORJmHaOdkhLatm2KZ31dhBUq6nrCPuN/+EBCfFaAxwu9doYojG8sa7483l7Ilq97Ebm1jWbxWKeOJNg9EIKFXNNkVb2lgXKIEhUQWYfLLZUoKe/QLH1hbJj6VNAQ2otmZ1focmG1TS4eTijM1x0le/Xq1Kp8O3L1CJwyRHzODODuM/JvNHSxppHTDEyghYvFYF8vK8B8cDdjIW5b0jCPEUuVggUULrj0dWQrJVgEWI0lzR5a4pLCug6rJcuETFhG8= sunnat@sunnat
 *.py,cover
 .hypothesis/
 .pytest_cache/
@@ -127,3 +126,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+media/
+static/
